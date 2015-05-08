@@ -1,0 +1,28 @@
+2015-05-08 10:34:29.327 FindMeInStore[1932:28142] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/va922kg/Library/Developer/CoreSimulator/Devices/C216C6BF-834E-499A-9148-3296776186C5/data/Containers/Data/Application/DC5FEDEF-E6EC-477B-8CA5-7C1F82672002/Library/Cookies/Cookies.binarycookies
+2015-05-08 10:34:29.465 FindMeInStore[1932:28142] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-08 10:34:29.466 FindMeInStore[1932:28142] Multi-tasking -> Device: YES, App: YES
+2015-05-08 10:34:29.468 FindMeInStore[1932:28142] Unlimited access to network resources
+2015-05-08 10:34:29.471 FindMeInStore[1932:28142] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-08 10:34:29.905 FindMeInStore[1932:28142] Resetting plugins due to page load.
+2015-05-08 10:34:29.934 FindMeInStore[1932:28142] Finished load of: file:///Users/va922kg/Library/Developer/CoreSimulator/Devices/C216C6BF-834E-499A-9148-3296776186C5/data/Containers/Bundle/Application/E5A032CA-560E-41A8-B198-DF62110E2D99/FindMeInStore.app/www/index.html
+2015-05-08 10:35:44.790 FindMeInStore[2034:29237] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/va922kg/Library/Developer/CoreSimulator/Devices/C216C6BF-834E-499A-9148-3296776186C5/data/Containers/Data/Application/AA11CB30-5D93-4D9F-ACAC-DB260D44A28A/Library/Cookies/Cookies.binarycookies
+2015-05-08 10:35:44.879 FindMeInStore[2034:29237] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-08 10:35:44.879 FindMeInStore[2034:29237] Multi-tasking -> Device: YES, App: YES
+2015-05-08 10:35:44.881 FindMeInStore[2034:29237] Unlimited access to network resources
+2015-05-08 10:35:44.883 FindMeInStore[2034:29237] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-08 10:35:45.016 FindMeInStore[2034:29237] Resetting plugins due to page load.
+2015-05-08 10:35:45.057 FindMeInStore[2034:29237] Finished load of: file:///Users/va922kg/Library/Developer/CoreSimulator/Devices/C216C6BF-834E-499A-9148-3296776186C5/data/Containers/Bundle/Application/B75D1EA4-2542-47F3-BC2B-779B914E2826/FindMeInStore.app/www/index.html
